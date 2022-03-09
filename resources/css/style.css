@@ -74,7 +74,7 @@ header .icon {
 }
 
 header .mobile {
-  display: "none";
+  display: none;
 }
 
 @media only screen and (max-width: 450px) {
