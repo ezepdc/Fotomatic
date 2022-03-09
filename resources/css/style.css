@@ -79,7 +79,7 @@ header .mobile {
 
 @media only screen and (max-width: 1000px) {
   header .desktop {
-    display: "none";
+    display: none;
   }
 
   header .mobile {
