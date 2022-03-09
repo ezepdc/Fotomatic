@@ -47,7 +47,11 @@ header .content {
   display: flex;
   align-items: center;
   padding: 1.875rem;
-}
+  color: #4a4a4a;
+  font-size: 1rem;
+  font-family: Roboto-regular;
+  line-height: 1.6;
+  }
 
 header .logo {
   flex: 1;
@@ -117,7 +121,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: flex-start;
   height: 43.5rem;
-  background-image: url("./resources/images/banner-landingpage.jpg");
+  background-image: url('../images/banner-landingpage.jpg');
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
